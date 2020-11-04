@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="VR_Test">
+	<parameter name="suitename" value="VR" />
+	<parameter name="environment" value="STGENG" />
+	<parameter name="browsertype" value="chrome" />
+	<test name="VR Test for">
+		<classes>
+			 <class name="drive.tests.SarathiPage" />
+		</classes>
+	</test>
+</suite>

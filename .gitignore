@@ -1,0 +1,36 @@
+.idea
+.idea/codeStyles
+.idea/libraries
+target
+.fbprefs
+.project
+.settings
+.classpath
+bin
+.DS_Store
+tmpdir
+.idea
+*.iml
+.clover
+.cache
+*.orig
+gen
+temp.xml
+derby.log
+test.log
+dependency-reduced-pom.xml
+*.versionBackup
+*.versionsBackup
+picasso
+/.metadata/
+*.log
+*.html
+*.jar
+Pregnancy.iml
+ExtentReportConfig.xml
+Default test.xml
+testng-failed.xml
+testng-results.xml
+TEST-reopenpregnancy.test.ReopenPregnancyTest.xml
+VR Test.xml
+PCMClosePregnancy.iml
