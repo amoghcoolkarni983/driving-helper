@@ -49,8 +49,7 @@ public final class DriverFactory {
 					driver = new InternetExplorerDriver();
 					break;
 				case GlobalProperties.CHROME:
-					System.setProperty("webdriver.gecko.driver", "/Users/ak062993/Desktop/geckodriver");
-					driver = new FirefoxDriver();
+					driver = new ChromeDriver();
 					break;
 				case GlobalProperties.MicrosoftEdge:
 					System.setProperty("webdriver.edge.driver", System.getProperty("user.dir")
