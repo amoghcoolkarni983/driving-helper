@@ -15,7 +15,6 @@ public class DrivingObjects {
     @FindBy(xpath = "/html/body/div/div/div[3]/section[3]/div/div/div[3]/a")
     public static WebElement appStatus;
 
-
     @FindBy(xpath = ".//*[@name=\"applNum\"]")
     public static WebElement appNo;
 
