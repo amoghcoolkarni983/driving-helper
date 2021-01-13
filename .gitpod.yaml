@@ -20,4 +20,4 @@ tasks:
       mvn test -Dtest=\!CBasicDemo -DfailIfNoTests=false || true
     command: |
       gp open driving-workflows/src/test/java/drive/tests/SarathiPage.java
-      mvn test -Dtest=BasicDemo --no-snapshot-updates
+      mvn test -Dtest=SarathiPage --no-snapshot-updates
